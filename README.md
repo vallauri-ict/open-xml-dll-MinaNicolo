@@ -17,5 +17,6 @@ E' molto importante l'implementazione, all'interno di Visual Studio, dell'applic
 ``` using DocumentFormat.OpenXml;
 using DocumentFormat.OpenXml.Packaging;
 using DocumentFormat.OpenXml.Wordprocessing;
+using DocumentFormat.OpenXml.Spreadsheet;
 using OpenXmlUtilities;
 ```
