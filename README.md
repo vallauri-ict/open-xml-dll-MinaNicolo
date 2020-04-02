@@ -13,3 +13,8 @@ All'interno del progetto sono presenti due classi per la gestione di questi docu
 
 E' molto importante l'implementazione, all'interno di Visual Studio, dell'applicativo DocumentFormat.OpenXml
 
+## Riferimenti - bisogna aggiungerli per l'utilizzo di OpenXml ##
+using DocumentFormat.OpenXml;
+using DocumentFormat.OpenXml.Packaging;
+using DocumentFormat.OpenXml.Wordprocessing;
+using OpenXmlUtilities;
